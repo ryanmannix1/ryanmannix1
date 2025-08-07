@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile!
 
+My Latest Work:  [Connecticut Home Value Trends (2018-2025)](https://ryanmannix1.github.io/ct-home-value-trends-2018-2025/)
+
 ## My Data Science Skills:
 - Python (Pandas, NumPy, Matplotlib, ...)
 - R (tidyverse, ggplot2, ...) --> R Markdown
