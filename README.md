@@ -20,7 +20,7 @@ I'm a Data Scientist and Aerospace Engineer with 9+ years of experience at Pratt
 - Conducted data analytics on F135 full flight data in support of 50+ investigation efforts.		
 - Assessed the impact of aircraft design changes on engine performance requirements across 
 all three F-35 variants, including the Short Takeoff and Vertical Landing (STOVL) F-35B.
-- Team Lead using machine learning, statistics, and more to develop the F135 duty cycle.
+- Team lead using machine learning, statistics, and more to develop the F135 duty cycle.
 - Completed a Certificate in Data Science from Cornell, strengthening my skills in regression, supervised learning, and machine learning.
 
 ## Right Now
