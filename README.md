@@ -24,7 +24,6 @@ all three F-35 variants, including the Short Takeoff and Vertical Landing (STOVL
 - Completed a Certificate in Data Science from Cornell, strengthening my skills in regression, supervised learning, and machine learning.
 
 ## Right Now
-- Deepening ML & AI skills through training and hands-on projects. 
-- Studying for the Power BI PL-300 certification exam.
+- Deepening Python & SQL skills through training and hands-on projects. 
 - 💼 Open to new work opportunities.
 - 🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/ryanmannix1)
